@@ -111,7 +111,7 @@ public class FaceAnalyzer : IDisposable
         result.Stress = EvaluateStress(result.BlinksPerMinute);
         result.Focus = EvaluateFocus(result);
         result.Message = GenerateMessage(result);
-
+        
         return result;
     }
 

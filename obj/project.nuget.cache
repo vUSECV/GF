@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "McbJsbZnBIY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amir\\RiderProjects\\StateTracker\\StateTracker\\StateTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amir\\.nuget\\packages\\opencvsharp4\\4.13.0.20260330\\opencvsharp4.4.13.0.20260330.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\opencvsharp4.extensions\\4.13.0.20260330\\opencvsharp4.extensions.4.13.0.20260330.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20260302\\opencvsharp4.runtime.win.4.13.0.20260302.nupkg.sha512"
+  ],
+  "logs": []
+}
